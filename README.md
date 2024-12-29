@@ -1,4 +1,4 @@
-# Sentiment_Analysis
+# Sentiment Analysis
 This project implements a Sentiment Analysis system using a machine learning approach.
 It processes text data to determine the sentiment (positive, negative, or neutral) expressed in the input.
 The notebook demonstrates key steps, including:
